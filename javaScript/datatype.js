@@ -18,7 +18,7 @@ let state;
 // symbol
 
 
-//Object
+//Object 
 
 console.log(typeof null); // data type object
 console.log(typeof undefined); // undefined
